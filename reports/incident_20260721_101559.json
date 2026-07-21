@@ -1,0 +1,12 @@
+{
+    "report_generated_at": "2026-07-21 10:15:59",
+    "total_incidents": 1,
+    "incidents": [
+        {
+            "container": "flask-app",
+            "detected_at": "2026-07-21 10:10:51",
+            "recovered_at": "2026-07-21 10:10:56",
+            "downtime_seconds": 5
+        }
+    ]
+}
